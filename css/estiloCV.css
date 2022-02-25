@@ -39,6 +39,7 @@ html {
 .menu li:hover {
   background-color:  steelblue;
   font-size: 120%;
+  cursor: pointer;
 }
 .aside {
   background-color: #414141;
